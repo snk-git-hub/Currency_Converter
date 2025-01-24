@@ -1,4 +1,4 @@
-const apiKey = "80dc6c288d09873d57ec4818";
+const apiKey = "YOUR_API_KEY";
 
     async function convertCurrency(){
 
